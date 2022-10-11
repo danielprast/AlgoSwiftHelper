@@ -8,7 +8,7 @@ import UIKit
 
 public enum UIHelper {
   
-  static public func makeRgbColor(
+  public static func makeRgbColor(
     red: CGFloat,
     green: CGFloat,
     blue: CGFloat
